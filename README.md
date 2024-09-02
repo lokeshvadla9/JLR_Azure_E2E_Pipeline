@@ -41,7 +41,7 @@ The project architecture follows a structured layered approach:
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](PowerBI_report.png)
+![Power BI Dashboard](Azure_Pipelines/PowerBI_report.png)
 
 ## Usage
 
